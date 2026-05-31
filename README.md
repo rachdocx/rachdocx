@@ -1,4 +1,7 @@
 ## Hi there 👋
+## University Projects:
+
+> #### [Full Stack Music Streaming Platform Java](https://github.com/rachdocx/PAO-FMI-2026/tree/main/Proiect/MP3MediaPlayer) 
 
 <!--
 **rachdocx/rachdocx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
