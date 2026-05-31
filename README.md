@@ -1,7 +1,17 @@
 ## Hi there 👋
 ## University Projects:
 
-> #### [Full Stack Music Streaming Platform](https://github.com/rachdocx/PAO-FMI-2026/tree/main/Proiect/MP3MediaPlayer) | Java | Hibernate | MySQL | JavaFX
+> #### [Full Stack Music Streaming Platform App](https://github.com/rachdocx/PAO-FMI-2026/tree/main/Proiect/MP3MediaPlayer) | Java | Hibernate | MySQL | JavaFX
+> #### [Genetic Algorithms Simulation](https://github.com/rachdocx/PAO-FMI-2026/tree/main/Proiect/MP3MediaPlayer) | Python
+> #### [Statistical Performance Analysis of an Informations System ](https://github.com/rachdocx/Analiza-Performanta-Trafic-in-R) | R
+> #### [Management System for a Bank and its Loan's Risks](https://github.com/rachdocx/SGBD-FMI-2025/tree/main/Proiect) | SQL | PLSQL
+> #### [Full Stack Social Media Movies Platform](https://github.com/rachdocx/SocialFilmPlatform) | ASP.NET | MVC | C#
+> #### [Managment System for a Records Store](https://github.com/rachdocx/BD-FMI-2025/tree/main/Proiect) | SQL | MongoDB
+> #### [Public Transport Managment System](https://github.com/rachdocx/POO-FMI-2025/tree/main/Proiect/Proiect%203) | C++ | OOP Concepts
+> #### [Research-Like Papers for Some Unsolved Problems](https://github.com/rachdocx/LFA-FMI-2025) | C++ | Python
+> #### [Frontend For a Records Store Website](hhttps://github.com/rachdocx/Proiect-Tehnici-Web) | HTML | CSS | JavaScript
+> #### [HTML File Formatter for Indentation and More](https://github.com/rachdocx/ITBI-FMI-2024-25/tree/main/HTMLPrettyPrinter-Proiect) | Shell Script | Bash
+> #### [Low Level Memory Managment System](https://github.com/rachdocx/ASC-FMI-2024-25/tree/main/Tema) | Assembly Intel X86
 
 <!--
 **rachdocx/rachdocx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
