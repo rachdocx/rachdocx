@@ -9,7 +9,7 @@
 > #### [Managment System for a Records Store](https://github.com/rachdocx/BD-FMI-2025/tree/main/Proiect) | SQL | MongoDB
 > #### [Public Transport Managment System](https://github.com/rachdocx/POO-FMI-2025/tree/main/Proiect/Proiect%203) | C++ | OOP Concepts
 > #### [Research-Like Papers for Some Unsolved Problems](https://github.com/rachdocx/LFA-FMI-2025) | C++ | Python
-> #### [Frontend For a Records Store Website](hhttps://github.com/rachdocx/Proiect-Tehnici-Web) | HTML | CSS | JavaScript
+> #### [Frontend For a Records Store Website](https://github.com/rachdocx/Proiect-Tehnici-Web) | HTML | CSS | JavaScript
 > #### [HTML File Formatter for Indentation and More](https://github.com/rachdocx/ITBI-FMI-2024-25/tree/main/HTMLPrettyPrinter-Proiect) | Shell Script | Bash
 > #### [Low Level Memory Managment System](https://github.com/rachdocx/ASC-FMI-2024-25/tree/main/Tema) | Assembly Intel X86
 
