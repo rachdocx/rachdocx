@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## University Projects:
 
-> #### [Full Stack Music Streaming Platform: Java | Hibernate | MySQL | JavaFX](https://github.com/rachdocx/PAO-FMI-2026/tree/main/Proiect/MP3MediaPlayer) 
+> #### [Full Stack Music Streaming Platform](https://github.com/rachdocx/PAO-FMI-2026/tree/main/Proiect/MP3MediaPlayer) | Java | Hibernate | MySQL | JavaFX
 
 <!--
 **rachdocx/rachdocx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
