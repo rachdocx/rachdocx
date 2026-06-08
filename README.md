@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## University Projects:
 
-> #### [Signal Object Detection - Kaggle Competition: ML Models](https://github.com/rachdocx/IA-FMI-2026/tree/main/SignalObjectDetection-Kaggle/src) | PyTorch | Scikit-learn | NumPy 
+> #### [Signal Object Detection - Kaggle Competition: ML Models and Doc](https://github.com/rachdocx/IA-FMI-2026/tree/main/SignalObjectDetection-Kaggle/src) | PyTorch | Scikit-learn | NumPy 
 > #### [Full Stack Music Streaming Platform App](https://github.com/rachdocx/PAO-FMI-2026/tree/main/Proiect/MP3MediaPlayer) | Java | Hibernate | MySQL | JavaFX
 > #### [Genetic Algorithms Simulation](https://github.com/rachdocx/PAO-FMI-2026/tree/main/Proiect/MP3MediaPlayer) | Python
 > #### [Genetic Algorithms Simulation](https://github.com/rachdocx/PAO-FMI-2026/tree/main/Proiect/MP3MediaPlayer) | Python
