@@ -4,6 +4,7 @@
 > #### [Signal Object Detection - Kaggle Competition: ML Models and Doc](https://github.com/rachdocx/IA-FMI-2026/tree/main/SignalObjectDetection-Kaggle/src) | PyTorch | Scikit-learn | NumPy 
 > #### [Full Stack Music Streaming Platform App](https://github.com/rachdocx/PAO-FMI-2026/tree/main/Proiect/MP3MediaPlayer) | Java | Hibernate | MySQL | JavaFX
 > #### [Genetic Algorithms Simulation](https://github.com/rachdocx/PAO-FMI-2026/tree/main/Proiect/MP3MediaPlayer) | Python
+> #### [Multi-agent AI file organizer](https://github.com/FerTeo/ClutterKill) | Docker | Ollama | Google Gemini 
 > #### [Statistical Performance Analysis of an Informations System ](https://github.com/rachdocx/Analiza-Performanta-Trafic-in-R) | R
 > #### [Management System for a Bank and its Loan's Risks](https://github.com/rachdocx/SGBD-FMI-2025/tree/main/Proiect) | SQL | PLSQL
 > #### [Full Stack Social Media Movies Platform](https://github.com/rachdocx/SocialFilmPlatform) | ASP.NET | MVC | C#
