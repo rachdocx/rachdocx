@@ -3,6 +3,7 @@
 
 > #### [Signal Object Detection - Kaggle Competition: ML Models and Doc](https://github.com/rachdocx/IA-FMI-2026/tree/main/SignalObjectDetection-Kaggle/src) | PyTorch | Scikit-learn | NumPy 
 > #### [Full Stack Music Streaming Platform App](https://github.com/rachdocx/PAO-FMI-2026/tree/main/Proiect/MP3MediaPlayer) | Java | Hibernate | MySQL | JavaFX
+> #### Computer Networks Projects: [DNS AdBlocker](https://github.com/rachdocx/computer-networks/tree/2026/Proiecte/1-dnsAdblocker) [MXMap Romania](https://github.com/rachdocx/computer-networks/tree/2026/Proiecte/2-MXMap) [HTTP Hijacking](https://github.com/rachdocx/computer-networks/tree/2026/Proiecte/src) [DNS Tunnel](https://github.com/rachdocx/computer-networks/tree/2026/Proiecte/4-dns_tunnel) | Scapy | Nginx | Docker | DoH
 > #### [Genetic Algorithms Simulation](https://github.com/rachdocx/AA-FMI-2026/tree/main/Proiect-AlgoGenetici) | Python | Algorithms
 > #### [Multi-agent AI file organizer](https://github.com/FerTeo/ClutterKill) | Docker | Ollama | Google Gemini 
 > #### [Statistical Performance Analysis of an Informations System ](https://github.com/rachdocx/Analiza-Performanta-Trafic-in-R) | R
